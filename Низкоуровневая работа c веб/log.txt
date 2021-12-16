@@ -1,0 +1,42 @@
+Date: Tue, 14 Dec 2021 23:08:14 GTM
+Addr: ('127.0.0.1', 59579)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 03:24:24 GTM
+Addr: ('127.0.0.1', 59580)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 03:24:24 GTM
+Addr: ('127.0.0.1', 59583)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:49:43 GTM
+Addr: ('127.0.0.1', 63654)
+File: C:\Users\Kunasheva\Prac_5\index.html
+Date: Thu, 16 Dec 2021 12:49:43 GTM
+Addr: ('127.0.0.1', 63655)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:51:01 GTM
+Addr: ('127.0.0.1', 63677)
+File: C:\Users\Kunasheva\Prac_5\image.jpg
+Date: Thu, 16 Dec 2021 12:51:01 GTM
+Addr: ('127.0.0.1', 63678)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:52:00 GTM
+Addr: ('127.0.0.1', 63679)
+File: C:\Users\Kunasheva\Prac_5\image.png
+Date: Thu, 16 Dec 2021 12:52:00 GTM
+Addr: ('127.0.0.1', 63694)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:52:52 GTM
+Addr: ('127.0.0.1', 63711)
+File: C:\Users\Kunasheva\Prac_5\image.gif
+Date: Thu, 16 Dec 2021 12:52:52 GTM
+Addr: ('127.0.0.1', 63712)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:55:01 GTM
+Addr: ('127.0.0.1', 63731)
+File: C:\Users\Kunasheva\Prac_5\image.png
+Date: Thu, 16 Dec 2021 12:55:02 GTM
+Addr: ('127.0.0.1', 63732)
+File: C:\Users\Kunasheva\Prac_5\404.html
+Date: Thu, 16 Dec 2021 12:55:02 GTM
+Addr: ('127.0.0.1', 63735)
+File: C:\Users\Kunasheva\Prac_5\404.html
