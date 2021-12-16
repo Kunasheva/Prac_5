@@ -1,0 +1,27 @@
+Start...
+Connection...
+Port> 9090
+Start listening...
+Folder already exists
+pwd
+cd first
+echo Hello >> file1.txt
+Text is written inC:\Users\User\Practicum7-ftp.server\Kunasheva_II\first\file1.txt
+ls
+cat file1.txt
+cd ..
+cd first
+ls
+rm file1.txt
+mkdir del
+cd ..
+ls
+rmdir del
+ls
+exit
+None
+Folder already exists
+pwd
+cd ..
+exit
+None
